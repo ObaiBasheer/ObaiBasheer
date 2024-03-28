@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ObaiBasheer/count.svg?"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ObaiBasheer/ObaiBasheer/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
