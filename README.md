@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ObaiBasheer/count.svg?"  />
@@ -50,8 +50,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=reda11864&theme=default" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
