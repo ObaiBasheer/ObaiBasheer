@@ -1,5 +1,5 @@
 # Welcome to my GitHub repository! 👋
-I’m Obai, a seasoned .NET Software Engineer with over three years of experience in building scalable, robust software solutions. This space showcases my technical expertise, personal projects, and contributions to the development community.
+I’m Obai, a seasoned .NET Software Engineer with over three years of experience in building scalable, robust software solutions. This space showcases my technical expertise, personal projects.
 
 # About Me
 🌐 Expertise: Backend and API development using C#, ASP.NET Core, and Entity Framework.
@@ -56,7 +56,7 @@ I aim to:
 
 # Get in Touch
 📧 Email: [[Email]](oby.b@hotmail.com)
-💼 LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/obai-basheer/)
+💼 LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/obai-basheer/)
 
 
 Feel free to explore my repositories and contribute to projects! I’m always open to collaboration and feedback. 😊
