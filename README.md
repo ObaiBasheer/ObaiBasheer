@@ -1,62 +1,50 @@
-# Welcome to my GitHub repository! 👋
-I’m Obai, a seasoned .NET Software Engineer with over three years of experience in building scalable, robust software solutions. This space showcases my technical expertise, personal projects.
+# ð Welcome  
+Iâm **Obai**, a .NET Software Engineer with 3+ years of experience building **scalable, resilient backend systems**. This space reflects the way I work: clean architecture, strong fundamentals, and solutions that actually solve problems.  
 
-# About Me
-🌐 Expertise: Backend and API development using C#, ASP.NET Core, and Entity Framework.
+---
 
-🔄 Integration Solutions: Skilled in designing middleware systems for seamless data integration between APIs, databases, and other platforms.
+## ð¹ About Me  
+- **Backend & APIs** â C#, ASP.NET Core, Dapper, EF Core.  
+- **Integration** â Middleware design, API â Database â Platform pipelines.  
+- **Systems** â Messaging (RabbitMQ), CI/CD (Azure DevOps), IIS, cloud deployment.  
+- **Problem-Solving** â From optimizing ADO.NET queries to architecting event-driven systems.  
+- **Learning** â Currently diving deep into .NET 8, Clean Architecture, CQRS, and low-level internals like DI and WebSockets.  
 
-☁️ Cloud and CI/CD: Experienced with iPaaS platforms like Dell Boomi, Azure DevOps pipelines, and Agile practices.
+---
 
-💡 Problem-Solver: Passionate about tackling complex challenges and optimizing performance in large-scale systems.
+## ð Featured Projects  
+### 1. Research Management System  
+A platform for managing research subjects and applications with a balance of technical efficiency and stakeholder usability.  
+**Stack:** ASP.NET Core, EF Core, SQL Server.  
 
-📚 Learning and Sharing: Continuously expanding knowledge in cutting-edge technologies like .NET 8, CQRS, and RUST.
+### 2. Integration Middleware Prototype  
+Data-agnostic middleware enabling configurable API â Database integrations.  
+**Stack:** C#, ASP.NET Core.  
 
-# Featured Projects
-1. Research Management System
-        A system enabling researchers to apply for subjects and collaborate effectively. Designed with stakeholders in mind, this project balances technical efficiency with user-friendly interfaces.
+### 3. IBM FileNet Unified API *(WIP)*  
+A scalable, reusable API layer over IBM FileNet for multi-system integration.  
+**Stack:** ASP.NET Core, SQL Server.  
 
-    * Key Features: CRUD operations, authentication, and responsive design.
-      
-    * Tech Stack: ASP.NET Core, Entity Framework, SQL Server.
-      
-2. Integration Middleware Prototype
-        A data-agnostic middleware supporting flexible integrations between APIs and databases. Users can define authentication, map data structures, and set binding properties.
+### 4. Excel Parsing & SMS Automation  
+Automates Excel parsing, API lookups, and SMS sending with dynamic templates.  
+**Stack:** .NET 8, SOAP, EF Core.  
 
-        * Key Features: Configurable templates, appsettings.json for dynamic configuration.
-   
-        * Tech Stack: C#, ASP.NET Core.
-   
-4. IBM FileNet Unified API (In Progress)
-        Enhancing a FileNet API for scalability and reusability across multiple systems, focusing on a unified, efficient design.
+---
 
-      * Key Features: Modular architecture, standardized interfaces.
-        
-      * Tech Stack: ASP.NET Core, SQL Server.
-        
-4. Excel Parsing and SMS Automation Tool
-    An end-to-end tool for parsing Excel files, retrieving data via APIs, updating data dynamically, and sending SMS messages using custom templates.
+## ð ï¸ Tech I Work With  
+- **Languages:** C# (primary), SQL, JavaScript, Rust (exploring).  
+- **Frameworks:** ASP.NET Core, Entity Framework, Dapper, Refit, YARP.  
+- **Tools:** RabbitMQ, SQL Server, Dell Boomi, Azure DevOps, IIS, Hangfire.  
 
-   * Key Features: Dynamic template population, SOAP API integration.
-   * Tech Stack: C#, .NET 8, SOAP, and Entity Framework.
+---
 
+## ð¯ Goals  
+1. Build reusable, enterprise-grade APIs.  
+2. Launch my own software company.  
+3. Contribute to open-source projects.  
 
-# Technologies & Tools
-Programming Languages: C# (preferred), JavaScript, Rust , SQL.
-Frameworks & Libraries: ASP.NET Core, Entity Framework, Refit, Dapper, Yarp.
-Tools: RabbitMQ, SQL Server, IIS, Dell Boomi, Azure DevOps.
+---
 
-
-# Goals
-I aim to:
-
-1- Build scalable, reusable APIs for enterprise-grade systems.
-2- Start my own software company focusing on innovative solutions.
-3- Contribute to open-source projects that advance software engineering.
-
-# Get in Touch
-📧 Email: [[Email]](oby.b@hotmail.com)
-💼 LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/obai-basheer/)
-
-
-Feel free to explore my repositories and contribute to projects! I’m always open to collaboration and feedback. 😊
+## ð¬ Get in Touch  
+- **Email:** [oby.b@hotmail.com](mailto:oby.b@hotmail.com)  
+- **LinkedIn:** [linkedin.com/in/obai-basheer](https://www.linkedin.com/in/obai-basheer/)
