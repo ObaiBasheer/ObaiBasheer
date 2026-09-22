@@ -10,6 +10,7 @@ More recently, I'm expanding that foundation into **AI-enabled backend systems, 
 
 ### Backend Engineering
 
+* GO
 * C# / .NET 8
 * ASP.NET Core Web API
 * Entity Framework Core
